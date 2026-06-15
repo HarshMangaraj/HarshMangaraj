@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏋️ [Fit.ai — AI-Powered Fitness & Nutrition Platform](https://github.com/harsh-mangaraj/fit-ai)
+### 🏋️ [Fit.ai — AI-Powered Fitness & Nutrition Platform](https://github.com/HarshMangaraj/AIFITNESS)
 *React 19 · Node.js · Gemini Vision API · Grok AI · PostgreSQL · Prisma ORM*
 
 - Full-stack app with food logging, workout scheduling & real-time progress analytics, deployed on Vercel with zero downtime
@@ -24,7 +24,7 @@
 
 🔗 **[Live Demo](https://ai-fit-coach-wine.vercel.app/)**
 
-### 🕵️ [Deepfake Image Detector — Media Authenticity Platform](https://github.com/harsh-mangaraj/deepfake-detector)
+### 🕵️ [Deepfake Image Detector — Media Authenticity Platform](https://github.com/HarshMangaraj/deepfake-cnn)
 *PyTorch · FastAPI · React 19 · TypeScript · TanStack Router*
 
 - End-to-end deepfake detection using a fine-tuned **ResNet-18 CNN** (ImageNet transfer learning) served via async FastAPI
