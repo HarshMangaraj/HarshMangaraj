@@ -1,16 +1,65 @@
-# 💫 About Me:
-👋 Hey! I'm Harsh — a final-year BCA student from Bhubaneswar who builds production-grade, AI-powered web apps. From food-scanning fitness platforms to real-time hospital management systems, I love shipping things that actually work at scale. 🚀 Currently hunting for a software engineering internship where I can build something impactful.<br><br>🔭 I'm currently working on — AI-integrated full-stack web platforms (fitness & healthcare apps)<br>👯 I'm looking to collaborate on — Full-stack projects involving AI/LLM integration, real-time systems, or React/Next.js apps<br>🤝 I'm looking for help with — Advanced system design and scaling distributed backend architectures<br>🌱 I'm currently learning — Advanced TypeScript patterns, system design, and deeper AI/ML model integration<br>💬 Ask me about — React, Next.js, Node.js, AI API integration, WebSockets, or how I built Fit.ai & MediQueue<br>⚡ Fun fact — I was the only team from my college to reach the Smart India Hackathon 2025 Grand Finale, and we finished Runner-Up among 1,000+ teams nationally!
+# 💫 About Me
 
+👋 Hey, I'm **Harsh** — a Full-Stack Software Engineer & BCA graduate from Bhubaneswar, India. I build production-grade, AI-powered web applications across the full stack — from food-scanning fitness platforms to real-time media authenticity tools. 🚀
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-bardhan-mangaraj/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mangarajharsh?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshmangaraj723@gmail.com) 
+🏆 **National Runner-Up — Smart India Hackathon (SIH) 2025**, Healthcare Technology Track — led a 6-member team through 3 elimination rounds to the Grand Finale among 1,000+ teams, as the only team selected from my institution.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HarshMangaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=HarshMangaraj&theme=dark&hide_border=false)<br/>
+🔭 **Currently working on** — AI-integrated full-stack platforms (fitness & healthcare)
+🌱 **Currently learning** — Advanced TypeScript patterns, system design, deeper AI/ML model integration
+👯 **Looking to collaborate on** — Full-stack projects involving AI/LLM integration, real-time systems, or React/Next.js apps
+💬 **Ask me about** — React, Next.js, Node.js, PyTorch, AI API integration, or how I built **Fit.ai** & the **Deepfake Detector**
+📄 **Open to** — Software Engineering roles & freelance full-stack/AI projects (Remote & Relocation)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ [Fit.ai — AI-Powered Fitness & Nutrition Platform](https://github.com/harsh-mangaraj/fit-ai)
+*React 19 · Node.js · Gemini Vision API · Grok AI · PostgreSQL · Prisma ORM*
+
+- Full-stack app with food logging, workout scheduling & real-time progress analytics, deployed on Vercel with zero downtime
+- Integrated **Gemini Vision API** for food image recognition — returns full macro breakdown (calories, protein, carbs, fats, confidence score) in under 1.2s
+- **Grok AI** generates personalized 5-day workout plans as structured JSON from user health metrics
+- Hardened with JWT (HS256) auth, Bcrypt salting & Zod validation; bundle size <120 kB, FCP <0.8s
+
+🔗 **[Live Demo](https://ai-fit-coach-wine.vercel.app/)**
+
+### 🕵️ [Deepfake Image Detector — Media Authenticity Platform](https://github.com/harsh-mangaraj/deepfake-detector)
+*PyTorch · FastAPI · React 19 · TypeScript · TanStack Router*
+
+- End-to-end deepfake detection using a fine-tuned **ResNet-18 CNN** (ImageNet transfer learning) served via async FastAPI
+- Full ML inference pipeline: normalization, resizing, tensor preprocessing, binary classification head, softmax output
+- **Privacy-first & stateless** — images processed in-memory, never persisted to disk
+- Type-safe React/TypeScript SPA with drag-and-drop upload & animated verification UI
+
+🔗 **[Live Demo](https://deepfake-cnn.vercel.app/)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**AI/ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Databases & ORM:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Tools & DevOps:** ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=HarshMangaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=HarshMangaraj&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshMangaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-bardhan-mangaraj-1747b1304) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mangarajharsh) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmangaraj723@gmail.com)
