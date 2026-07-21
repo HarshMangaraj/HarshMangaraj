@@ -85,8 +85,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshMangaraj&theme=tokyonight" width="95%"/>
-
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshMangaraj&theme=tokyonight" width="30%"/>
